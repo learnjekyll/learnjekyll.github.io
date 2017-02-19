@@ -11,3 +11,5 @@ Check back soon for more updates and have an amazing weekend!
 Thanks,
 
 Justin and Alexis
+
+![default_profile_picture]({{site.url}}/assets/default_profile_picture.png)
